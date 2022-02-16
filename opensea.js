@@ -30271,7 +30271,8 @@ function extend() {
 
 },{}],221:[function(require,module,exports){
 OpenSea = require('opensea-js')
-},{"opensea-js":427}],222:[function(require,module,exports){
+OpenSeaType = require('opensea-js/lib/types')
+},{"opensea-js":427,"opensea-js/lib/types":429}],222:[function(require,module,exports){
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 var json_schemas_1 = require("@0xproject/json-schemas");
